@@ -1,0 +1,4 @@
+.direnv
+.vscode
+data
+app/__pycache__
